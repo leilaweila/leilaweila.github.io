@@ -14,7 +14,7 @@ My research centers the reparative role of informal economies in the face of pri
 I am currently working on my Senior Thesis entitled: 
 > *Wheels of Misfortune: The Automotive Decline and the Rise of Crime in Detroit, Flint, and   Pontiac, Michigan (1970–2005)*
 
-You can reach me at: leila.diallo@bison.howard.edu.
+You can reach me at: leila.diallo@bison.howard.edu
 
 My CV is available [here.](https://github.com/user-attachments/files/24850319/Academic.CV.Spring26.pdf)
 
