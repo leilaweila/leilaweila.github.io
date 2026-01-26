@@ -1,6 +1,11 @@
-## Leila Diallo <sub>CV</sub>
+<div>
+  <b><font size="7">Leila Diallo</font></b> 
+  <sub style="color: grey;"><font size="3">CV</font></sub>
 
-![Diallo_Leila Headshot 2-min](https://github.com/user-attachments/assets/87989bdd-b051-45a0-937e-c448a490d56a)
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/87989bdd-b051-45a0-937e-c448a490d56a" width="300">
+  </p>
+</div>
 
 Hi there! My name is Leila (lay-luh) Diallo. I am an undergraduate Honors Economics Student at Howard University. 
 
