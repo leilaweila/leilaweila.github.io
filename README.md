@@ -19,9 +19,9 @@ You can reach me at: leila.diallo@bison.howard.edu
 My CV is available [here.](https://github.com/user-attachments/files/32546541/SeniorYRCV.pdf)
 
 ### Working Papers
-* Working Paper “Crime Changes Under De-Industrialization Shocks in Michigan” Fall 2026.
-* Working Paper “Prison De-Risking” (with Carla Coburger and Michael Ralph) Fall 2026.
-* Working Paper “Corporate-Owned Life Insurance” (with Carla Coburger and Michael Ralph) Fall 2026.
+* “Crime Changes Under De-Industrialization Shocks in Michigan” Fall 2026.
+* “Prison De-Risking” (with Carla Coburger and Michael Ralph) Fall 2026.
+* “Corporate-Owned Life Insurance” (with Carla Coburger and Michael Ralph) Fall 2026.
 
 ### Publications
 * “Book, Necropolitics and Mass Violence: Power, Death, and Resistance in Global Perspective, Chapter: “The
