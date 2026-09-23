@@ -22,4 +22,7 @@ My CV is available [here.](https://github.com/user-attachments/files/32546541/Se
 * "Tweeting Trust: The Influence of Social Media News Consumption on Public Confidence in Elections”
 
 ### Publications
-* “The Politics of Care under Necropolitical Rule: Community Networks and State Violence in Rio de Janeiro’s Favelas (2006–2024)” *Publication in Process*
+* “Book, Necropolitics and Mass Violence: Power, Death, and Resistance in Global Perspective, Chapter: “The
+Politics of Care under Necropolitical Rule: Community Networks and State Violence in Rio de Janeiro’s Favelas
+(2006–2024)” (with João Abreu, Shambhobi Bhattacharya, Reynaldo Ortiz-Minaya, Michael Ralph, and Raven Shaw)
+Publication in Process.” *Publication in Process*
