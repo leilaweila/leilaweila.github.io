@@ -16,7 +16,7 @@ I am currently working on my Senior Thesis entitled:
 
 You can reach me at: leila.diallo@bison.howard.edu
 
-My CV is available [here.](https://github.com/user-attachments/files/24850319/Academic.CV.Spring26.pdf)
+My CV is available [here.](https://github.com/user-attachments/files/32546541/SeniorYRCV.pdf)
 
 ### Working Papers
 * "Tweeting Trust: The Influence of Social Media News Consumption on Public Confidence in Elections”
