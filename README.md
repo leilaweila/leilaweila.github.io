@@ -9,7 +9,7 @@
 
 Hi there! My name is Leila (lay-luh) Diallo. I am an undergraduate Honors Economics Student at Howard University. 
 
-My research centers the reparative role of informal economies in the face of private market failure and public sector failures. And I am applying for the 2026-2027 JD/PhD application cycle.
+My research centers the role of labor market health on crime, centering shifts to the criminal market in response to industrial collapse. And I am applying for the 2026-2027 JD/PhD application cycle.
 
 I am currently working on my Senior Thesis entitled: 
 > *Crime Changes Under De-Industrialization Shocks in Michigan*
