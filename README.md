@@ -12,7 +12,7 @@ Hi there! My name is Leila (lay-luh) Diallo. I am an undergraduate Honors Econom
 My research centers the reparative role of informal economies in the face of private market failure and public sector failures. And I am applying for the 2026-2027 JD/PhD application cycle.
 
 I am currently working on my Senior Thesis entitled: 
-> *Wheels of Misfortune: The Automotive Decline and the Rise of Crime in Detroit, Flint, and   Pontiac, Michigan (1970–2005)*
+> *Crime Changes Under De-Industrialization Shocks in Michigan*
 
 You can reach me at: leila.diallo@bison.howard.edu
 
